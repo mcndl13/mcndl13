@@ -1,6 +1,6 @@
 ### Hey! 👋🏿
 
-I'm Mouhamed, a Software Engineer in Montréal, Canada 🇨🇦, looking for **new-grad / junior backend and full-stack roles**.
+I'm Mouhamed, a Software Engineer in Montreal, Canada, looking for **new-grad / junior backend and full-stack roles**.
 
 I graduated with Distinction in Software Engineering from Concordia University. I've built UI components for a design system at **Genetec**, worked on application reliability at **The CSL Group**, and shipped **[MeMantra](https://github.com/MeMantraa/MeMantra)**, a React Native app on the App Store with 90%+ test coverage.
 
