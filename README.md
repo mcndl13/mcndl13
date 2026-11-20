@@ -13,7 +13,7 @@ Right now I'm learning more about backend systems and building a recommendation 
 ### Featured projects
 
 - **[MeMantra](https://github.com/MeMantraa/MeMantra)**: affirmation app on the App Store. 32 screens, CI with CodeQL + SonarQube, 90%+ test coverage. *TypeScript, React Native, Node.js, PostgreSQL*
-- **[Arch Robustness Study](https://github.com/mcndl13/arch-robustness-study)**: compared how MLP, CNN and ResNet models hold up under 15 image corruptions. The MLP was the most robust (85.1% vs 57.8% for ResNet). *Python, PyTorch*
+- **[Arch Robustness Study](https://github.com/mcndl13/arch-robustness-study)**: compared how MLP, CNN and ResNet models hold up under 15 image corruptions. The MLP was the most robust (85.1% vs 63.2% for ResNet), despite the lowest clean accuracy. *Python, PyTorch*
 
 ### Let's connect!
 
